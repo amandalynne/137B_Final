@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>I've been on it for 6 to 7 months. I am extremely irritable ad emotional and I also get 2 periods every month one the 2 nd week and one during the sugar pills. It makes me so tired and week and this month is the first time my second period lasted like a day and hasn't come back. I too have to take pregnancy tests just to ease my worry and all that. I get bursts of energy I can usually make it at work but after I too am like a zombie. Mostly I sleep. I'm always extremely tired. I wanna switch but I worry bout whatever they'll put me on next. I might just get the 5 year thing. I just can't take 2 periods every month anymore :(</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="298~307" text="irritable" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="311~320" text="emotional" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="336~357" text="2 periods every month" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S4" spans="423~428" text="tired" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="433~437" text="week" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="605~621" text="bursts of energy" category="ENERGY" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="678~684" text="zombie" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="723~728" text="tired" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S9" spans="850~857" text="periods" category="MENSTRUAL" condition="other" change="increase" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="288~297" text="extremely" intensity="high" comment="" />
+<MODIFIER id="M1" spans="420~422" text="so" intensity="high" comment="" />
+<MODIFIER id="M2" spans="713~722" text="extremely" intensity="high" comment="" />
+</TAGS>
+</RxML>

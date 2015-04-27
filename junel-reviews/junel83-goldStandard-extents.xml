@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>WOW. I am so happy I looked up this medication to see if anyone was experiencing the same thing. I also have ZEROOOO desire to have sex. I've been taking Junel for about 5 months now. I linked this to the bc pretty quickly because I've been in a relationship for 3 years and I went from wanted to do it all the time to NEVER. And I knew it wasn't him because now I don't even think about anything remotely sexual at all...about anyone or anything! It just doesn't even enter my mind anymore. Sometimes I try to initiate things because I feel like I should want to but nothing happens. I don't feel turned on or anything. It's so weird! It's like I'm dead. I just go to sleep. Previously I was on LoEstrin for about 5 years and LOVED it. However my new insurance wouldn't cover it. I was told this was comparable. Wrong! I can't wait to get off Junel.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="323~349" text="ZEROOOO desire to have sex" category="SEXUAL" condition="libido" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="491~538" text="went from wanted to do it all the time to NEVER" category="SEXUAL" condition="libido" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="579~626" text="don't even think about anything remotely sexual" category="SEXUAL" condition="libido" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="670~704" text="doesn't even enter my mind anymore" category="SEXUAL" condition="libido" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="801~821" text="don't feel turned on" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="855~868" text="like I'm dead" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>i am 28 just had my first baby 7 months ago was never on birth control went on lo estrin pill after delivery but after i stopped breast feeding my obgyn put me on this junel pill. Ive been taking it for 3 weeks and i knoiw something has shifted . Depression detachment anxiety heart palpultations numbeness foggyness dryheaving spacyness shakey oody grumpy nooooooo sex drive diarea.... I had to look this crap up n now i know its this pill!!!!!!!! ive been a happy person all my life . the pill is in the trash today should be off the market... why does the fda let woman take this crap? why cant the dam men start takig something !!!!!!!1 warning !!!!!!1 stop taking this pill if your goin crazyyy!!!!!!!!!!!</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="465~475" text="Depression" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="476~494" text="detachment anxiety" category="MENTAL" condition="anxiety" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="495~514" text="heart palpultations" category="CARDIOVASCULAR" condition="heart_rate" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="515~524" text="numbeness" category="SENSATIONS" condition="numbness" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="525~534" text="foggyness" category="MENTAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="535~545" text="dryheaving" category="DIGESTIVE" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="546~555" text="spacyness" category="MENTAL" condition="focus" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="556~562" text="shakey" category="OTHER" condition="tremors" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="563~567" text="oody" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S9" spans="568~574" text="grumpy" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S10" spans="575~593" text="nooooooo sex drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S11" spans="594~600" text="diarea" category="DIGESTIVE" condition="diarrhea" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Absence of Menstrual Periods</condition>
+<comment>Gave me extreme anxiety made me gain 15 pounds in 3 months. Awful dont use</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="245~252" text="anxiety" category="EMOTIONAL" condition="anxiety" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="261~275" text="gain 15 pounds" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="237~244" text="extreme" intensity="high" comment="" />
+</TAGS>
+</RxML>

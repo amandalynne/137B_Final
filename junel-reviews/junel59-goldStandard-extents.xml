@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>4</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Painful Periods</condition>
+<comment>First of all I want to acknowledge the difficulty that many of the prior reviewers have been experiencing while taking Junel - After reading their reviews some of my own experiences began to make sense to me. At present I am taking Junel 21 and I like it overall. Yes there is some breast tenderness around the time of my period. I however have had an increase in my sexual drive and an improvement in my IBS symptoms (I am diagnosed with Fibromyalgia) - I have not felt lethargic but this may be a balance between the Junel and my other medications... I am not sure. I have not had any major acne breakouts but did have a small unexplained eczema-type rash on my arm for a short period of time. I am a little moodier around my period but nothing severe and unmanageable. My biggest problem with Junel is the inconsistency with having my period - Sometimes I do... Sometimes I don't. It makes it a bit worrisome as I am sexually active - So every now and then I find myself doing pregnancy tests. ;) Overall for me Junel has been okay. I was on Loestrin 24 before which I prefer but because of an insurance switch had to change to Junel 21. All in all not bad but may need to be balanced with other medications in order to be most effective... and perhaps more counseling is needed on the side-effects of this bc by our providers. Hope this review helps.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S7" spans="1040~1075" text="inconsistency with having my period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="1520~1532" text="side-effects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="513~530" text="breast tenderness" category="PAIN" condition="" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="583~611" text="increase in my sexual drive " category="SEXUAL" condition="libido" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="618~648" text="improvement in my IBS symptoms" category="DIGESTIVE" condition="other" change="better" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="693~711" text="not felt lethargic" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S5" spans="824~838" text="acne breakouts" category="SKIN_HAIR" condition="acne" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="872~888" text="eczema-type rash" category="SKIN_HAIR" condition="rash" change="" area="limbs" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="941~948" text="moodier" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

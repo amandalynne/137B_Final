@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I didn't experience any mood swings or other serious side effects but I would always begin bleeding the week before the sugar pill which was a problem. Overall pretty good experience</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="238~249" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="267~279" text="side effects" category="OTHER" condition="" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S2" spans="305~313" text="bleeding" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="259~266" text="serious" intensity="high" comment="" />
+<MODIFIER id="M1" spans="292~298" text="always" intensity="high" comment="" />
+</TAGS>
+</RxML>

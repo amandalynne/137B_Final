@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>13-18</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I started taking Junel a month ago and now have started the first week of my second pack. The first month was okay: minor nausea sore breasts minor bloating. did not notice mood changes. not sure about my sex drive. I did not get my period during my placebo week. Now that I have started the second month I feel terrible! The most noticeable symptom is AWFUL BLOATING. 5 hours after I eat lunch I feel completely full with no appetite. I am a runner so I run intensely almost every day and my runs have just SUCKED i always feel tired heavy and just not in it. Not sure why but this second pack has made me feel dull unmotivated and my bloating makes me just want to sit and do nothing. I want to switch but its so complicated to do all that however I think I am going to stop taking them tonight because I just hate this bloating its not worth it.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S8" spans="1036~1044" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="336~342" text="nausea" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="343~355" text="sore breasts" category="PAIN" condition="" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="362~370" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="387~399" text="mood changes" category="EMOTIONAL" condition="mood" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S4" spans="521~534" text="feel terrible" category="EMOTIONAL" condition="mood" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="573~581" text="BLOATING" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="637~648" text="no appetite" category="DIGESTIVE" condition="appetite" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="743~748" text="tired" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S11" spans="826~830" text="dull" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S10" spans="831~842" text="unmotivated" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S9" spans="850~858" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="330~335" text="minor" intensity="low" comment="" />
+<MODIFIER id="M1" spans="356~361" text="minor" intensity="low" comment="" />
+<MODIFIER id="M2" spans="567~572" text="AWFUL" intensity="high" comment="" />
+<MODIFIER id="M3" spans="731~737" text="always" intensity="high" comment="" />
+</TAGS>
+</RxML>

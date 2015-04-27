@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>2 to less than 5 years</treatment_length>
+<satisfaction>4</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>I have been on Junel Fe for almost 3 years. I forget to take it on time sometimes which is my own doing but other than that I am very happy with it. My periods are lighter my cramps are not as bad and no babies! :) I haven't had many side effects; I recommend Junel Fe.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="394~413" text="periods are lighter" happened="yes" comment="" />
+<INTENDED_EFFECT id="I1" spans="417~438" text="cramps are not as bad" happened="yes" comment="" />
+<INTENDED_EFFECT id="I2" spans="443~452" text="no babies" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="476~488" text="side effects" category="OTHER" condition="" change="" area="" happened="no" comment="" />
+</TAGS>
+</RxML>

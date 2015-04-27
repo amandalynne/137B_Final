@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>2</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have been on this med for about 4 months. I mainly got on Junel due to the fact that I wanted to gain weight which it indeed help me with. However the breakthrough bleeding in-between periods sucks. And then when is my period coming??? who knows...it kind of freaks a 21 y.o. female out. Pregnancy is not a thing any person wants to guess on. A period tells us women that our uterine lining in "sloughing" off and that their is no implanted fetus in there.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="313~324" text="gain weight" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="367~388" text="breakthrough bleeding" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

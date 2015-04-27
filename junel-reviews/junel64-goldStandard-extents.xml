@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I do have to say that in order to properly evaluate a birth control pill you should be on it for 3 months. My first month was terrible. My breasts were SO tender I was moody I didn't feel well in general. After being on Junel for about 5 months I am getting off of it as soon as my new health insurance kicks in in 2 months. The reason being that my breasts still get VERY tender about 2 weeks out of the month but mainly because I have no sex drive whatsoever. Like...NONE. This is so not me and while my boyfriend hasn't complained per se I do feel like it's affecting our relationship. Plus I like having sex. This is just not me. Just a little warning and wondering if anyone else has had my issues.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="353~375" text="breasts were SO tender" category="PAIN" condition="" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="382~387" text="moody" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="390~417" text="didn't feel well in general" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="564~593" text="breasts still get VERY tender" category="PAIN" condition="" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="651~663" text="no sex drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<MODIFIER id="M1" spans="366~368" text="SO" intensity="high" comment="" />
+<MODIFIER id="M0" spans="582~586" text="VERY" intensity="high" comment="" />
+</TAGS>
+</RxML>

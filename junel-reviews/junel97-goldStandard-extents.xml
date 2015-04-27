@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I took Junel Fe for three months and have had probably the worst experience of my life. Not only did i suffer from severe headaches and stomach aches breast paindepression and loss of sex drive but i developed huge red boils all over my face. I have been to countless doctors and they are unsure of my condition however they all agree the pill was most likely the cause. I believe it may be a form of cystic acne. I have suffered from mild acne in the past but nothing like this. I would not recommend this pill to anyone.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="336~345" text="headaches" category="PAIN" condition="" change="" area="head" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="350~363" text="stomach aches" category="PAIN" condition="" change="" area="abdominal" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="364~375" text="breast pain" category="PAIN" condition="" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="375~385" text="depression" category="EMOTIONAL" condition="mood" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="390~407" text="loss of sex drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="433~438" text="boils" category="SKIN_HAIR" condition="other" change="" area="face" happened="yes" comment="" />
+<MODIFIER id="M0" spans="329~335" text="severe" intensity="" comment="" />
+<MODIFIER id="M2" spans="424~428" text="huge" intensity="" comment="" />
+</TAGS>
+</RxML>

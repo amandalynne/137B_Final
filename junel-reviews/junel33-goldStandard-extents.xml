@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>35-44</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>2</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>Starting taking Loestrin Fe for excessive PMS issues. The Loestrin Fe became more and more expensive so I asked the dr to change to an inexpensive generic -- Junel Fe. First months was okay; second month ended with yeast infection; third month I am constantly feeling sick light headed painful stomach cramps bloating constipation and urgent feeling to go to the bathroom (but then nothing happens)…. these symptoms are really too much. After reading the other reviews I am stopping this pill today as it seems like there is not a end to my symptoms and even more are yet to come (acne hair loss depression).</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="448~463" text="yeast infection" category="OTHER" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="493~505" text="feeling sick" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="506~518" text="light headed" category="SENSATIONS" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="527~541" text="stomach cramps" category="PAIN" condition="cramps" change="" area="other" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="542~550" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="551~563" text="constipation" category="EXCRETORY" condition="constipation" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="575~604" text="feeling to go to the bathroom" category="EXCRETORY" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="814~818" text="acne" category="SKIN_HAIR" condition="acne" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S8" spans="819~828" text="hair loss" category="SKIN_HAIR" condition="hair" change="decrease" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S9" spans="829~839" text="depression" category="EMOTIONAL" condition="mood" change="worse" area="" happened="no" comment="" />
+<MODIFIER id="M2" spans="482~492" text="constantly" intensity="high" comment="" />
+<MODIFIER id="M1" spans="519~526" text="painful" intensity="high" comment="" />
+<MODIFIER id="M0" spans="568~574" text="urgent" intensity="high" comment="" />
+</TAGS>
+</RxML>

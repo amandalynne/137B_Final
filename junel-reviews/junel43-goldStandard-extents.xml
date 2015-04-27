@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>I am 28 years old. I have been taking this pill for one month. I have been on different kinds of pills but this is the worst. The only positive thing is it has made my period back to normal again after having fibroids and having my period 25 days out of the month. I would rather have the bleeding. I now have acne on my entire back chest and even on my neck. I am extremely irritable all the time. My hair seems thinner and there seems to be more coming out when I brush/wash it. I have been having trouble sleeping. I have been scatterbrained and have been having trouble finding the word I want to say in conversation so I sound like an idiot (I am usually fairly articulate). I am actually going to stop this pill immediately and try to schedule surgery to remove the fibroid. Yes I would prefer surgery to this horrible pill's side effects.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="401~422" text="period back to normal" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="543~547" text="acne" category="SKIN_HAIR" condition="acne" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="608~617" text="irritable" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="635~653" text="hair seems thinner" category="SKIN_HAIR" condition="hair" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="681~691" text="coming out" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S3" spans="733~749" text="trouble sleeping" category="SLEEP" condition="insomnia" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="763~777" text="scatterbrained" category="MENTAL" condition="memory" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="799~823" text="trouble finding the word" category="" condition="" change="" area="" happened="" comment="" />
+<MODIFIER id="M0" spans="598~607" text="extremely" intensity="high" comment="" />
+</TAGS>
+</RxML>

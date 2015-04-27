@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I think this was the worst birth control that I have ever taken. I attribute this to the doctor that prescribed it to me. She for did not even tell me that she was changing my prescription (from ortho tricyclen). I went home immediately and looked up reviews for and heard horror stories. I gained about 15-20 lbs. no libido mood swings constantly bigger boobs (no complaint there) etc. There was only one good thing that I could say: shorter light periods because mine always lasted a full 7 days and brought a storm with it. I finished the whole year because I thought that there was something that I was doing wrong a then I just stopped taking it so I switched</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="514~536" text="gained about 15-20 lbs" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="538~547" text="no libido" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="548~559" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="571~583" text="bigger boobs" category="WEIGHT" condition="" change="increase" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="658~679" text="shorter light periods" category="MENSTRUAL" condition="other" change="decrease" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="560~570" text="constantly" intensity="high" comment="" />
+</TAGS>
+</RxML>

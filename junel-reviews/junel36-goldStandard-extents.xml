@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>13-18</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I just finished my first pack today and i already have a yeast infection. I didnt get my period (21 day) and i always am nauseous. Ive been really moody and i cry all the time im hopefully getting my new birth control today.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="271~286" text="yeast infection" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="290~309" text="didnt get my period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="335~343" text="nauseous" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="361~366" text="moody" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="325~331" text="always" intensity="high" comment="" />
+<MODIFIER id="M1" spans="354~360" text="really" intensity="high" comment="" />
+<MODIFIER id="M2" spans="377~389" text="all the time" intensity="" comment="" />
+</TAGS>
+</RxML>

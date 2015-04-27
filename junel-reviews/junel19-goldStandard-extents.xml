@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>Reading over the reviews of this drug I'm relieved that I'm not the only one who has been experiencing the side affects from taking it. My Doctor switched me last month from Loestrin to Junel. During the second week I started to not feel like myself. I felt like I wasn't really here I questioned my relationship I was just really lost. I've been off of it for about a week now and I'm feeling more in control of my emotions thoughts and life.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="325~337" text="side affects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="447~467" text="not feel like myself" category="EMOTIONAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="471~501" text="felt like I wasn't really here" category="EMOTIONAL" condition="other" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

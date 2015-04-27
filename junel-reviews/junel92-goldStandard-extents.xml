@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>4</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>This is my first time ever using birth control so I wasn't sure what to expect. A friend of mine had recommended this pill to me so I asked my doctor to prescribe it. My doctor told me to use it for 3 months so my body can adjust to it and I can really see if I don't like it. I've been on it for 3 weeks now and I have also had mood swings and depression like other reviewers on here. For me it wasn't too bad and I had a feeling it was because of the pill so I would just tell myself to get a grip and come back to reality and that usually works for me! I have not gained or loss any weight. My friend who's been on it for longer than I have told me acne might get worse first but then after 2-3 months it'll totally clear up and my skin will be fine. I've had no hair loss no headaches and no other bad side effects so far other than having some extreme mood swings. But I'm giving it 3 months like my doctor recommended and I'll give another review after that!</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S5" spans="1075~1086" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="547~558" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="563~573" text="depression" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="781~810" text="not gained or loss any weight" category="WEIGHT" condition="" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S3" spans="981~993" text="no hair loss" category="SKIN_HAIR" condition="hair" change="decrease" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S4" spans="994~1006" text="no headaches" category="PAIN" condition="" change="" area="head" happened="no" comment="" />
+<MODIFIER id="M0" spans="1067~1074" text="extreme" intensity="high" comment="" />
+</TAGS>
+</RxML>

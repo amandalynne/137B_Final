@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I started taking this med because it was a cheap alternative. I have been on it 8 month and the last three have not had a period. I'm tired all the time. I sleep way too much. I'm easily irratable. And have tons of problems with my contacts and infections in my eyes since I started this pill. I'm not so sure I would reccommend it to anyone. Not getting a period is nice but scary. And mood and sight are also important.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="341~357" text="not had a period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="363~368" text="tired" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="385~403" text="sleep way too much" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="416~425" text="irratable" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="474~484" text="infections" category="OTHER" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="572~592" text="Not getting a period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="369~381" text="all the time" intensity="high" comment="" />
+<MODIFIER id="M1" spans="409~415" text="easily" intensity="high" comment="" />
+</TAGS>
+</RxML>

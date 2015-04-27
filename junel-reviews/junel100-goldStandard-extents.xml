@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I started Junel the first day of my period and the next day i had a lot of thick clots. The good thing was my period only lasted about four days with my norm being 7-8 days. The side effects i experienced right away were headache bad fatigue and nausea which went away after a few days but what really scared me was the pain in my left arm and chest and shortness of breath that started about 20 minutes after i would take each pill and it lasted for hours. I also experienced acid reflux and would wake up every morning cold and drenched in sweat. Also my mood went from excellent (on Lexapro) to very emotional and moody. I have only been on this medication for two weeks and cannot tolerate it. I have had trouble finding a birth control pill that will not interfere with my anxiety/depression or make it worse and have not been very successful. These reviews have really been helpful in my last two attempts to get back on the pill and its good to know im not the only one dealing with these outrageous side effects. I hope my review helps anyone who is thinking about this drug or is on it and is experiencing the same thing. I stopped taking it today and have been pain free all day so far.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S13" spans="1225~1237" text="side effects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="293~304" text="thick clots" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="328~362" text="period only lasted about four days" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="396~408" text="side effects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="439~447" text="headache" category="PAIN" condition="" change="" area="head" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="452~459" text="fatigue" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="464~470" text="nausea" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="538~542" text="pain" category="PAIN" condition="" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="538~542" text="pain" category="PAIN" condition="" change="" area="limbs" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="572~591" text="shortness of breath" category="RESPIRATORY" condition="shortness_of_breath" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S9" spans="695~706" text="acid reflux" category="DIGESTIVE" condition="heartburn" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S10" spans="748~765" text="drenched in sweat" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S11" spans="821~830" text="emotional" category="EMOTIONAL" condition="mood" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S12" spans="835~840" text="moody" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M3" spans="1214~1224" text="outrageous" intensity="" comment="" />
+<MODIFIER id="M0" spans="284~289" text="a lot" intensity="high" comment="" />
+<MODIFIER id="M1" spans="448~451" text="bad" intensity="high" comment="" />
+<MODIFIER id="M2" spans="816~820" text="very" intensity="high" comment="" />
+</TAGS>
+</RxML>

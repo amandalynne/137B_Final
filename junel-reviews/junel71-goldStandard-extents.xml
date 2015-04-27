@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>13-18</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Absence of Menstrual Periods</condition>
+<comment>I started taking birth control because I am a runner and have never had a regular period and was told that I would be more susceptible to stress fractures. So I began to take Junel because it was supposed to be a low dosage one. At first I didn’t notice really anything besides that if I didn’t take it right away in the morning then I would start spotting. Everything just started going downhill from there. I was always emotional and felt like I was on the verge of crying all the time which is so unlike me. For the two months that I was on Junel I gained about 5 pounds which isn’t a life changing amount but still a lot for when I’m running 60 or so miles a week. All of my races kept getting worse and worse and finally we came to the conclusion that it might be the birth control. I don’t feel nearly as competitive as I used to be and I overall started getting depressed. I was questioning every aspect of my life and had no motivation whatsoever and all I wanted to do was sleep. I’m hoping that in the next few weeks without Junel I will be back to my normal self. I wouldn’t recommend this birth control and will definitely do more research before I try birth control again.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S2" spans="1098~1107" text="depressed" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="1159~1172" text="no motivation" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="1188~1216" text="all I wanted to do was sleep" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S0" spans="577~585" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="651~660" text="emotional" category="EMOTIONAL" condition="mood" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="688~703" text="verge of crying" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S1" spans="781~802" text="gained about 5 pounds" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<MODIFIER id="M1" spans="644~650" text="always" intensity="" comment="" />
+<MODIFIER id="M0" spans="704~716" text="all the time" intensity="" comment="" />
+</TAGS>
+</RxML>

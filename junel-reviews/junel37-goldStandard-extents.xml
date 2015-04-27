@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have been on Junel Fe for over a year now and love it. My cycles are short and hardly and cramping. I believe everyone is going to be different but I have felt wonderful the entire time.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="283~299" text="cycles are short" happened="yes" comment="" />
+<INTENDED_EFFECT id="I1" spans="304~323" text="hardly and cramping" happened="yes" comment="" />
+</TAGS>
+</RxML>

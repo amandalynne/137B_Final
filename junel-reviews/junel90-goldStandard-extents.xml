@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>Unknown</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>Let me start off by saying that when you are starting or switching birth controls you really do need to allow a few months for your body to adjust. I had been taking orthotricyclen-lo for about two years when my doctor switched me to junel due to a potential blood clot in one of my legs. My first month on junel was horrible. I had persistent breakthrough bleeding for 2-3 weeks constantly felt tired constipated and had abdominal discomfort. I was really concerned by these side effects and wanted to switch back but my boyfriend convinced me to wait it out and let my body adjust. So I did. Aside from the first month with the breakthrough bleeding my experience with junel has been great. My periods are only 2-3 days with few cramps as opposed to before when I had week long periods with severe cramping and breast swelling. I also used to have really bad mood swings the week before my period and those seem to have dissipated since I have been on Junel. Plus it's a lot cheaper than my former birth control. I will continue to use Junel and recommend it to women looking for an alternative BC. I also strongly urge anyone new to this BC to allow the 1-3 months for your body to adjust. Having been there I know some of the initial side effects are hard to deal with but it will be worth it.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="560~581" text="breakthrough bleeding" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="607~617" text="felt tired" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="618~629" text="constipated" category="EXCRETORY" condition="constipation" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="638~658" text="abdominal discomfort" category="OTHER" condition="" change="" area="abdominal" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="692~704" text="side effects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="846~867" text="breakthrough bleeding" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="912~937" text="periods are only 2-3 days" category="MENSTRUAL" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="943~953" text="few cramps" category="MENSTRUAL" condition="cramps" change="better" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="549~559" text="persistent" intensity="high" comment="" />
+<MODIFIER id="M1" spans="596~606" text="constantly" intensity="high" comment="" />
+</TAGS>
+</RxML>

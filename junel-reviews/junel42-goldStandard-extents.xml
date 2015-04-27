@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>13-18</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Painful Periods</condition>
+<comment>I find this birth control to be very effective when it comes to shortening my periods and i've experienced a huge decrease in how long and heavy my periods are. Only negatives are that i've randomly spotted every month i've been taking this except one. also my breasts get very sore sometimes. and some of these scare me that i'm possibly pregnant! but they're just normal side effects of the medication. i've never had trouble remembering to take my pill every day at 10 pm just always have to remember to take it with me if i know i'll be out. over all i say this is a very good birth control and would suggest it to anyone that's just beginning. C:</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I1" spans="295~316" text="shortening my periods" happened="yes" comment="" />
+<INTENDED_EFFECT id="I0" spans="340~390" text="huge decrease in how long and heavy my periods are" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="430~437" text="spotted" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="492~513" text="breasts get very sore" category="PAIN" condition="" change="" area="chest" happened="yes" comment="" />
+</TAGS>
+</RxML>

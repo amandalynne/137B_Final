@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Unknown</gender>
+<age>Unknown</age>
+<treatment_length></treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I've been on this birth control for almost a year now. Before i even was on the pill my periods were very light and not crampy or painful. I started taking this pill and my period basically dissapeared. It was not a good thing ladies i either would get it a week late or go without a period for 3 months! I took pregnancy tests and everything because i was so concerned. After looking at the reviews i realized that this is a common side effect people on this Birth Control have. Hope this helps anyone going through what i'm going through.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="377~405" text="period basically dissapeared" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="453~471" text="get it a week late" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="475~507" text="go without a period for 3 months" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

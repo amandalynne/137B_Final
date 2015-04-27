@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I ignored all of the negative reviews for this and it was a huge mistake. I recently went on Junel for the first time. I took Levora for 8 years and had no issues with it aside from a 3-5 pound weight gain but after being off of it for a few months I decided to try another one that would potentially not cause me to gain weight. I should have taken the weight gain. This medication made me feel like I was losing my mind. I broke out terribly was extremely irritable and had EXTREME anxiety and depression. Junel basically turned me into a zombie. I already suffer from anxiety so maybe this isn't a good choice for people who have anxiety to begin with. Go with Levora.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="621~635" text="losing my mind" category="MENTAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="639~648" text="broke out" category="SKIN_HAIR" condition="acne" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="672~681" text="irritable" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="698~705" text="anxiety" category="EMOTIONAL" condition="anxiety" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="710~720" text="depression" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="755~761" text="zombie" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<MODIFIER id="M2" spans="649~657" text="terribly" intensity="high" comment="" />
+<MODIFIER id="M1" spans="662~671" text="extremely" intensity="high" comment="" />
+<MODIFIER id="M0" spans="690~697" text="EXTREME" intensity="high" comment="" />
+</TAGS>
+</RxML>

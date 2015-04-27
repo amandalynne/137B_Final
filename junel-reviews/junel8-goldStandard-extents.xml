@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Unknown</gender>
+<age>Unknown</age>
+<treatment_length></treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>2</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have been taking Junel for about nine months and my one complaint is a major one: i don't get periods. before being on BC i had always had short light periods but now they either last a day and are very light or don't happen at all for months at a time. i've gotten myself so worked up about worrying about being pregnant to the point where i have to take a home pregnancy test every once in a while for peace of mind. this is reason enough to stay away from this pill. however everyone is different. aside from this one horrible effect i don't have any other complaints about Junel. No weight gain mood changes fatigue or changes in skin.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="290~307" text="don't get periods" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="385~414" text="last a day and are very light" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S1" spans="418~430" text="don't happen" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="736~742" text="effect" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="793~804" text="weight gain" category="WEIGHT" condition="" change="increase" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S4" spans="805~817" text="mood changes" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S5" spans="818~825" text="fatigue" category="ENERGY" condition="" change="decrease" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S6" spans="829~844" text="changes in skin" category="SKIN_HAIR" condition="other" change="" area="" happened="no" comment="" />
+<MODIFIER id="M0" spans="727~735" text="horrible" intensity="" comment="" />
+<ANAPHOR id="A0" spans="373~377" text="they" comment="" />
+</TAGS>
+</RxML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>This medicine has caused a lot of weight gain for me. My appetite has increased considerably and this is not normal for me. I am a very slim person or was before I started taking Junel. I plan to stop taking it for a few months and see if there is any improvement in my weight gain.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="248~259" text="weight gain" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="271~293" text="appetite has increased" category="DIGESTIVE" condition="appetite" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="484~495" text="weight gain" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="239~244" text="a lot" intensity="high" comment="" />
+<MODIFIER id="M1" spans="294~306" text="considerably" intensity="high" comment="" />
+</TAGS>
+</RxML>

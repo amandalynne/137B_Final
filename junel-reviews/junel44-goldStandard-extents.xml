@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>I stopped taking birth control for three years because I've had issues with them making me "crazy". I was assured this is a really low dose and should be fine. I have since experienced depression extreme anxiety paranoia lack of sex drive and major mood swings. I would NOT recommend this to anyone.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="418~428" text="depression" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="437~444" text="anxiety" category="EMOTIONAL" condition="anxiety" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="445~453" text="paranoia" category="EMOTIONAL" condition="other" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="454~471" text="lack of sex drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="482~493" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M1" spans="429~436" text="extreme" intensity="high" comment="" />
+<MODIFIER id="M0" spans="476~481" text="major" intensity="high" comment="" />
+</TAGS>
+</RxML>

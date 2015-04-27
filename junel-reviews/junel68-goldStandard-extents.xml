@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Unknown</gender>
+<age>25-34</age>
+<treatment_length></treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I took Junel for just about 2 weeks and stopped. It was awful. I gained 7 lbs in the 2 weeks and had severe stomach bloating. No pain but my stomach- but the bloating was unbearable.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="267~279" text="gained 7 lbs" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="318~326" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="331~335" text="pain" category="PAIN" condition="other" change="" area="abdominal" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="360~368" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="303~309" text="severe" intensity="high" comment="" />
+</TAGS>
+</RxML>

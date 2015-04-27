@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>35-44</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>2</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>This is the worse BC pill I have ever been on. It has turned me into a b*tch! And extreme ACNE and anxiety! Not worth all the side effects.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="272~294" text="turned me into a b*tch" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="308~312" text="ACNE" category="SKIN_HAIR" condition="acne" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="317~324" text="anxiety" category="MENTAL" condition="anxiety" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="344~356" text="side effects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="300~307" text="extreme" intensity="high" comment="" />
+</TAGS>
+</RxML>
