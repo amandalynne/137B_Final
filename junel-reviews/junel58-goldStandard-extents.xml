@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>The first few months I would get my period on the days when I was taking the regular pills not the placebos. I attributed it to my body having lower hormone levels than it was used to. When I did get my period it was definitely short but the first day would be extremely heavy. I've now been on Junel for over 18 months and have altogether stopped having a period. Haven't had one in 7 months. I have not noticed any effect on my mood but I do cry at any sign of emotion in the media (movies radio commercials etc.) which did not used to happen. My sex drive has been non-existent since starting this BC it's difficult to lubricate and sex can be painful without additional artificial lubricant. Glad to hear I'm not the only one suffering these symptoms!</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="252~265" text="get my period" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="465~499" text="first day would be extremely heavy" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="563~586" text="stopped having a period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="653~657" text="mood" category="EMOTIONAL" condition="mood" change="worse" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S4" spans="667~670" text="cry" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="772~803" text="sex drive has been non-existent" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="832~854" text="difficult to lubricate" category="SEXUAL" condition="other" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>
