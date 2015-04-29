@@ -105,11 +105,13 @@ def extract_features_from_files(directory, mode, filename):
                         if triple in IOB_side_effects:
                             gold.write(triple[0] +'\t'+pair[1]+'\t'+ IOB_side_effects[triple]+ '\n')
                         else:
-                            gold.write(triple[0]+'\t'+pair[1]+'\t'+ "O"+'\n')
-                        gold.write("\n")
+                            gold.write(triple[0]+'\t'+pair[1]+'\t'+ "O"+'\n')                        
 
 if __name__ == "__main__":
     directory = sys.argv[1]
     mode = sys.argv[2]
     filename = sys.argv[3]
     extract_features_from_files(directory, mode, filename)
+    # To match CRFPP output
+    with open(filename+"-gold", 'ab') as gold:
+        gold.write("\n")
