@@ -101,6 +101,12 @@ def extract_features_from_files(directory, mode, filename):
     
                 elif mode == "test":
                     outf.write(triple[0] +'\t'+pair[1]+'\t'+ '\n')
+                    with open(filename+"-gold", 'ab') as gold:
+                        if triple in IOB_side_effects:
+                            gold.write(triple[0] +'\t'+pair[1]+'\t'+ IOB_side_effects[triple]+ '\n')
+                        else:
+                            gold.write(triple[0]+'\t'+pair[1]+'\t'+ "O"+'\n')
+                        gold.write("\n")
 
 if __name__ == "__main__":
     directory = sys.argv[1]
