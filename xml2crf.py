@@ -65,31 +65,43 @@ def extract_features_from_files(directory, mode, filename):
         tokenized = []
         word = ''
 
-        # Scan characters in comment, omitting final </comment> tag
-        for i in range(len(comment)-1): 
-            if not comment[i].isspace():
-                if comment[i] in ('-:.') and not comment[i+1].isspace():
-                    word+=comment[i]
-                elif comment[i] == "'" and comment[i+1] == 's':
-                    tokenized.append(word)
-                    untagged_offsets.append((word, char_index-len(word), char_index))
-                elif comment[i] in string.punctuation:
-                    if comment[i+1].isspace() or comment[i+1] in string.punctuation:
+        # Scan characters in comment
+        for i in range(len(comment)):
+            if i < (len(comment)-1): 
+                if not comment[i].isspace():
+                    if comment[i] in ('-:.') and not comment[i+1].isspace():
+                        word+=comment[i]
+                    elif comment[i] == "'" and comment[i+1] == 's':
                         tokenized.append(word)
                         untagged_offsets.append((word, char_index-len(word), char_index))
-                        word = comment[i]
+                    elif comment[i] in string.punctuation:
+                        if comment[i+1].isspace() or comment[i+1] in string.punctuation:
+                            tokenized.append(word)
+                            untagged_offsets.append((word, char_index-len(word), char_index))
+                            word = comment[i]
+                        else:
+                            word+=comment[i]
                     else:
                         word+=comment[i]
                 else:
-                    word+=comment[i]
+                    if word:
+                        tokenized.append(word)
+                        untagged_offsets.append((word, char_index-len(word), char_index))
+                    word=''
+                char_index+=1 
             else:
                 if word:
                     tokenized.append(word)
                     untagged_offsets.append((word, char_index-len(word), char_index))
-                word=''
-            char_index+=1 
+                    tokenized.append(comment[i])
+                    untagged_offsets.append((comment[i], char_index+1, char_index+2))
+                else:
+                    word+=comment[i]
+                    tokenized.append(word)
+                    untagged_offsets.append((word, char_index-len(word), char_index))        
 
         pos_tagged = nltk.pos_tag(tokenized)
+
 
         with open(filename, 'ab') as outf:
             for triple, pair in zip(untagged_offsets, pos_tagged):
