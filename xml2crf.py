@@ -44,41 +44,57 @@ def extract_features_from_files(directory):
                     start+=len(word)
             else:
                 IOB_side_effects[(split[0], start, end)] = "B-"+tag
+        
         with open(directory+raw) as inf:
             review = inf.read()
-        soup = BeautifulSoup(review)
-        review_text = soup.comment.text
+        soup = BeautifulSoup(directory+review)
+        comment = soup.comment.text
         
-        char_index = 0
+        # Maneuvering to get correct offsets
+        review_split = review.split("\n")
+        number_of_newlines = 6
+        
+        offset = len(review_split[0]) + len(review_split[1]) +\
+                 len(review_split[2]) + len(review_split[3]) +\
+                 len(review_split[4]) + len(review_split[5]) +\
+                 number_of_newlines + len("<comment>") + 1
+
+ 
+        char_index = offset 
         untagged_offsets = []
         tokenized = []
         word = ''
-        # THIS IS ALL WRONG ACK GOTTA FIX!
 
-        for i in range(len(text)-1):
-            if not text[i].isspace():
-                if text[i] in ('-:.') and not text[i+1].isspace():
-                    word+=text[i]
-                elif text[i] == "'" and text[i+1] == 's':
+        # Scan characters in comment, omitting final </comment> tag
+        for i in range(len(comment)-1): 
+            if not comment[i].isspace():
+                if comment[i] in ('-:.') and not comment[i+1].isspace():
+                    word+=comment[i]
+                elif comment[i] == "'" and comment[i+1] == 's':
                     tokenized.append(word)
-                    untagged_offsets.append((word, char_index-(len(word)), char_index))
-                elif text[i] in string.punctuation:
-                    if text[i+1].isspace() or text[i+1] in string.punctuation:
+                    untagged_offsets.append((word, char_index-len(word), char_index))
+                elif comment[i] in string.punctuation:
+                    if comment[i+1].isspace() or comment[i+1] in string.punctuation:
                         tokenized.append(word)
-                        untagged_offsets.append((word, char_index-(len(word)), char_index))
-                        word = text[i]
+                        untagged_offsets.append((word, char_index-len(word), char_index))
+                        word = comment[i]
+                    else:
+                        word+=comment[i]
                 else:
-                    word+=text[i]
+                    word+=comment[i]
             else:
                 if word:
                     tokenized.append(word)
-                    untagged_offsets.append((word, char_index-(len(word)), char_index))
+                    untagged_offsets.append((word, char_index-len(word), char_index))
                 word=''
-                char_index+=1
+            char_index+=1 
 
-        print untagged_offsets
-          
-
+        pos_tagged = nltk.pos_tag(tokenized)
+ 
+        if raw == "junel1.xml":
+            print IOB_side_effects
+            print untagged_offsets
+            print pos_tagged
 
 
 if __name__ == "__main__":
