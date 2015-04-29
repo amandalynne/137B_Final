@@ -13,5 +13,9 @@ U04:%x[1,0]
 # Next POS
 U05:%x[1,1]
 
+
+
+
+
 # Bigram
 B

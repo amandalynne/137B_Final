@@ -74,6 +74,7 @@ def extract_features_from_files(directory, mode, filename):
                     elif comment[i] == "'" and comment[i+1] == 's':
                         tokenized.append(word)
                         untagged_offsets.append((word, char_index-len(word), char_index))
+                        word = comment[i]
                     elif comment[i] in string.punctuation:
                         if comment[i+1].isspace() or comment[i+1] in string.punctuation:
                             tokenized.append(word)
@@ -125,5 +126,6 @@ if __name__ == "__main__":
     filename = sys.argv[3]
     extract_features_from_files(directory, mode, filename)
     # To match CRFPP output
-    with open(filename+"-gold", 'ab') as gold:
-        gold.write("\n")
+    if mode == "test":
+        with open(filename+"-gold", 'ab') as gold:
+            gold.write("\n")
