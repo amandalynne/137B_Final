@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>2</effectiveness>
+<condition>Condition: Defective Internal Secretion of Ovaries</condition>
+<comment>I was on Junel for 5 months & my periods would be light spotting for 2 weeks straight. It did a great job at preventing pregnancy mainly because I felt like I was always on my period. I never had any other side effects. But having your period every 2 weeks was bad enough.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I1" spans="330~369" text="did a great job at preventing pregnancy" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="296~304" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="387~422" text="felt like I was always on my period" category="OTHER" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="446~458" text="side effects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="501~511" text="bad enough" intensity="" comment="" />
+</TAGS>
+</RxML>

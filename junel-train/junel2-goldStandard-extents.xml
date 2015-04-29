@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>The first month I was completely fine. I took it exactly as instructed and began to be sexually active two weeks into it. I had only mild side effects such as bloating breast swelling/tenderness and spotting. The second month (this month) however I have headaches fatigue liquid out of one of my breasts frequent urination and most of all incapacitating nausea. I take it at night right after dinner...I usually wake up around seven feeling like I'm going to vomit on my bed. Bleh. And then it goes on and off through the day. Either this pill has failed...Or I'm just so small that it is kind of an overdose. Either way I can't continue this pill. Looks like I'm back to the rubbers!</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="352~364" text="side effects" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S1" spans="373~381" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="382~408" text="breast swelling/tenderness" category="OTHER" condition="swelling" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="413~421" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="468~477" text="headaches" category="PAIN" condition="" change="" area="head" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="478~485" text="fatigue" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="486~517" text="liquid out of one of my breasts" category="OTHER" condition="other" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="527~536" text="urination" category="EXCRETORY" condition="urination" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="568~574" text="nausea" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S9" spans="647~678" text="feeling like I'm going to vomit" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="347~351" text="mild" intensity="" comment="" />
+<MODIFIER id="M1" spans="518~526" text="frequent" intensity="high" comment="" />
+<MODIFIER id="M2" spans="553~567" text="incapacitating" intensity="high" comment="" />
+<ANAPHOR id="A0" spans="705~707" text="it" comment="" />
+</TAGS>
+</RxML>

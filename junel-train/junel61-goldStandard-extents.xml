@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>13-18</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I cannot believe my doctor would even prescribe this birth control its known for being horrible! I became very sad once i was on this pill and i'm a very happy person too! I had my period for two weeks (while taking the pill not even the sugar pills) also while menstruating i found pieces of uterus tissues coming out along with the blood. This freaked me out and i stopped taking this pill. i wouldn't recommend this to anybody there is a good chance it will mess up your body.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="325~328" text="sad" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="388~415" text="had my period for two weeks" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="497~532" text="pieces of uterus tissues coming out" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="320~324" text="very" intensity="" comment="" />
+</TAGS>
+</RxML>

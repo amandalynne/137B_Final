@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Absence of Menstrual Periods</condition>
+<comment>So I started taking Junel because I was having difficulty getting my period and my doctor told me it would regulate it. I have been taking it for a month and I have had severe vaginal bleeding I have been very depressed to the point I don't want to get out of bed on some days My moods changed and everything irritates me and not to mention my sex drive decreased... Has anyone encountered these side effects.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="405~421" text="vaginal bleeding" category="MENSTRUAL" condition="other" change="" area="other" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="439~448" text="depressed" category="EMOTIONAL" condition="mood" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="509~522" text="moods changed" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="527~550" text="everything irritates me" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="573~592" text="sex drive decreased" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="625~637" text="side effects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="398~404" text="severe" intensity="high" comment="" />
+<MODIFIER id="M1" spans="434~438" text="very" intensity="high" comment="" />
+</TAGS>
+</RxML>

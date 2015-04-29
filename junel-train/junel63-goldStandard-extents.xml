@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I had none of the bad side effects that I've been reading on here. Perhaps you need at least 3 months for the body to adjust to the new hormones. I lost weight had no acne whatsoever mood was great high energy etc. The only awful side effect I experienced was lack of sex drive. It was so low I hardly ever had sex with my bf which explains how effective junel can be! I am switching to OTC Lo this month!</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="245~257" text="side effects" category="OTHER" condition="" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="371~382" text="lost weight" category="WEIGHT" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="387~394" text="no acne" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S3" spans="483~501" text="lack of sex drive." category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

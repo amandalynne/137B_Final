@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Unknown</gender>
+<age>Unknown</age>
+<treatment_length></treatment_length>
+<satisfaction>4</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Other</condition>
+<comment>Ive been on Junel fe for 5 months now and its good so far. Switching to this birth control was super easy I didn't break out although it doesn't seem to be helping my mild acne and for the last 2 months during the 3rd week of pills I've developed a rash on my cheek that goes away in a few days don't know if there related. Also i have not had spotting or breakthrough bleeding at all on this pill and my period is 3 days and light. Have experienced some weight gain mainly in my boobs and some days have extreme bloating but nothing dramatic. Overall great pill. However I'm switching to the non generic brand to see if that helps with acne!</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="352~372" text="helping my mild acne" happened="no" comment="" />
+<SIDE_EFFECT id="S0" spans="311~320" text="break out" category="SKIN_HAIR" condition="acne" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="445~449" text="rash" category="SKIN_HAIR" condition="rash" change="" area="face" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="540~548" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S3" spans="552~573" text="breakthrough bleeding" category="MENSTRUAL" condition="spotting" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S4" spans="651~662" text="weight gain" category="WEIGHT" condition="" change="increase" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="709~717" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<CAUSE id="C0" spans="410~427" text="3rd week of pills" comment="" />
+<CONDITIONAL_TRIGGER id="CON0" spans="399~405" text="during" comment="" />
+<MODIFIER id="M0" spans="646~650" text="some" intensity="low" comment="" />
+<MODIFIER id="M1" spans="701~708" text="extreme" intensity="high" comment="" />
+</TAGS>
+</RxML>

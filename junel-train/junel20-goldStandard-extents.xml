@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I never thought to research other peoples experiences on this bc because ive always dealt with depression but lately ive also been having horrible anxiety panic attacks and irritability. I dont know if its all connected. Im currently not even sexually active i just liked it because it kept me regular but i can tell my sex drive is down. have feelings like irregular heartbeats again i dont know if its connected but i dont currently take anything else. periods were ideal very short & light. but im beginning to think that all the mood effects arent worth it plus i think i gained 5lbs? ive been working out the past month exercise and diet and havent seen much of an improvement. think its time to say goodbye to you junel. also my skin SUCKS on it. right now i have a huge like un poppable pimple under my cheek its been there for 2 weeks now. lame sauce</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="500~515" text="kept me regular" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="361~368" text="anxiety" category="EMOTIONAL" condition="anxiety" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="369~382" text="panic attacks" category="EMOTIONAL" condition="panic_attacks" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="387~399" text="irritability" category="EMOTIONAL" condition="mood" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="534~551" text="sex drive is down" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="572~592" text="irregular heartbeats" category="CARDIOVASCULAR" condition="heart_rate" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="790~801" text="gained 5lbs" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="949~959" text="skin SUCKS" category="SKIN_HAIR" condition="acne" change="increase" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="352~360" text="horrible" intensity="high" comment="" />
+</TAGS>
+</RxML>

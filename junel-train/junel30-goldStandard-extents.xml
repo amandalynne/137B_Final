@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I was given Junel because my original BC Gildes was recalled. I gained 15 lbs have headaches cramps and I keep thinking that I am pregnant. I only took the pill for 1.5 weeks but I felt horrible. All I ever wanted to do was crawl into bed and never leave.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="282~295" text="gained 15 lbs" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="301~310" text="headaches" category="PAIN" condition="" change="" area="head" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="311~317" text="cramps" category="MENSTRUAL" condition="cramps" change="" area="" happened="yes" comment="unspecified whether better or worse" />
+<SIDE_EFFECT id="S3" spans="399~412" text="felt horrible" category="" condition="" change="" area="" happened="" comment="" />
+</TAGS>
+</RxML>

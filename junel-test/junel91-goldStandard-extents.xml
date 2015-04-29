@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>4</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Absence of Menstrual Periods</condition>
+<comment>This is only my third week on the pill and so far no mood swings actually lost weight. Only thing I've had light bleeding after my period went away. From reading these reviews I'm very nervous to see what will happen. I know everyone is different but I'm now seriously considering switching from Junel</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="283~297" text="no mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="307~318" text="lost weight" category="WEIGHT" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="340~354" text="light bleeding" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

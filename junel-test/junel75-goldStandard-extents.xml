@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have been on Junel for a year now and I have nothing but good to say about it! My periods are light (I have NO cramps bloating headaches etc) & I do not experience any side effects from the pill. It is very effective as well. This is the first birth control I have tried and I LOVE it!</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="307~324" text="periods are light" happened="" comment="" />
+<INTENDED_EFFECT id="I1" spans="432~441" text="effective" happened="" comment="" />
+<SIDE_EFFECT id="S0" spans="336~342" text="cramps" category="MENSTRUAL" condition="cramps" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="343~351" text="bloating" category="DIGESTIVE" condition="bloating" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S2" spans="352~361" text="headaches" category="PAIN" condition="" change="" area="head" happened="no" comment="" />
+<SIDE_EFFECT id="S3" spans="393~405" text="side effects" category="" condition="" change="" area="" happened="" comment="" />
+</TAGS>
+</RxML>

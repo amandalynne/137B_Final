@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have been on this Rx for 9 months now and have had pros and cons with this drug. I have not had what most women are complaining of such as spotting mood swings or depression. In terms of my actual period it was very short and light with little to no cramping. I am very satisfied with it's effectivness and ease of use. However the biggest concern for me is lack in my sex drive. The reason I went on this pill was to prevent unwanted pregnancy when having sex not by not wanting sex anymore. When I do have sex with my partner I find myself becoming dry very quickly and subsequent pain. This was never an issue before. I am going to take myself off the pill and see if my sex drive improves and then talk to my doctor about switching to another BC pill.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="521~533" text="effectivness" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="370~378" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="379~390" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S2" spans="394~404" text="depression" category="EMOTIONAL" condition="mood" change="worse" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S3" spans="447~462" text="short and light" category="MENSTRUAL" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="468~489" text="little to no cramping" category="MENSTRUAL" condition="cramps" change="better" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="589~609" text="lack in my sex drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="699~722" text="not wanting sex anymore" category="SEXUAL" condition="libido" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="773~785" text="becoming dry" category="SEXUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="814~818" text="pain" category="PAIN" condition="other" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="442~446" text="very" intensity="high" comment="" />
+<MODIFIER id="M1" spans="786~798" text="very quickly" intensity="" comment="" />
+</TAGS>
+</RxML>

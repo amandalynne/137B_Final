@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I started taking this about 5 months ago after having been on Ortho Tricyclen Lo for 4 years. Just two months ago I stopped getting my periods...which I assume is because of my body adjusting to the change in hormone levels after 3 months of being on Junel Fe...a little nervous and not sure why this change has happened. I have not been sexually active recently so that cannot be the problem of a pregnancy. I also have noticed some mood changes too. I might have to switch if I don't get my periods soon it seems so unnatural for that to happen</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="330~356" text="stopped getting my periods" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="648~660" text="mood changes" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="643~647" text="some" intensity="" comment="" />
+</TAGS>
+</RxML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I thought I was going crazy until I started reading reviews. I have been taking Junel for a few weeks and have had no motivation for anything but sleep. My headaches are terrible (I've never had one in my life) I'm completely exhausted and dizzy and it always feels like I have a cold. I know you're supposed to wait a few months before knowing but I KNOW NOW. Don't take Junel. it's TERRIBLE!</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="333~346" text="no motivation" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="374~383" text="headaches" category="PAIN" condition="" change="" area="head" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="444~453" text="exhausted" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="458~463" text="dizzy" category="SENSATIONS" condition="dizziness" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="478~502" text="feels like I have a cold" category="OTHER" condition="other" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="388~396" text="terrible" intensity="high" comment="" />
+<MODIFIER id="M2" spans="433~443" text="completely" intensity="" comment="" />
+<MODIFIER id="M1" spans="471~477" text="always" intensity="" comment="" />
+</TAGS>
+</RxML>

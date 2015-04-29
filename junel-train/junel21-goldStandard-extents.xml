@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I started taking Birth control for exactly that reason. While I was on Junel FE I turned into a completely different person. I was moody aggressive and depressed. I also gained at least 40 pounds on it. as soon as i stopped taking it I turned back into my self again. I would not recommend this Birth Control to any one.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="345~350" text="moody" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="351~361" text="aggressive" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="366~375" text="depressed" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="384~409" text="gained at least 40 pounds" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

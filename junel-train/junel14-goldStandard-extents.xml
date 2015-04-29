@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>I started taking it on the first day of my period. Had no side affects until the 2nd day. Started getting nausous and throwing up. My period is heavier than usual.. the cramps which usually go away after the second day lasted my entire period and were much worse than usual. It also made me moody.. have night sweats.. irregular heart beat and throw up. Not something I would recommend.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="371~399" text="period is heavier than usual" happened="no" comment="" />
+<SIDE_EFFECT id="S0" spans="295~307" text="side affects" category="OTHER" condition="" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="343~350" text="nausous" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="355~366" text="throwing up" category="DIGESTIVE" condition="vomiting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="406~412" text="cramps" category="MENSTRUAL" condition="cramps" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="528~533" text="moody" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="541~553" text="night sweats" category="SKIN_HAIR" condition="sweating" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="556~576" text="irregular heart beat" category="CARDIOVASCULAR" condition="heart_rate" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="581~589" text="throw up" category="DIGESTIVE" condition="vomiting" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="489~510" text="much worse than usual" intensity="high" comment="" />
+</TAGS>
+</RxML>

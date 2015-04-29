@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Painful Periods</condition>
+<comment>I am currently on my first pack of Junel. I have never been on birth control before but I cannot continue to miss work due to getting extremely sick because of my periods. Since the age of twelve they have made me pass out throw up and have extremely bad cramps to the point of just laying there crying. So I started on Junel so far I always feel so depressed and cry about everything which is not me at all.I will be perfectly happy one minute and upset the next. I am not even done with my first pack and I have already started my period and getting cramps which are not as bad as normal. I am getting acne on my face which I have NEVER had before. I dont know if I should continue to take Junel or try something different. I feel as though being depressed is controlling my life and ruining my relationships with people. Any suggestions on what to do??</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="772~809" text="cramps which are not as bad as normal" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="570~579" text="depressed" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="638~683" text="perfectly happy one minute and upset the next" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="824~828" text="acne" category="SKIN_HAIR" condition="acne" change="" area="face" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="969~978" text="depressed" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="555~561" text="always" intensity="high" comment="" />
+</TAGS>
+</RxML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Unknown</gender>
+<age>Unknown</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Disease of Ovaries with Cysts</condition>
+<comment>Gave me terrible acne nausea every day frequent headaches and has caused me to be extremely irritable and over-emotional. I have had very bad cramps too. I want to get off of this medication as soon as I possibly can.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="250~254" text="acne" category="SKIN_HAIR" condition="acne" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="255~261" text="nausea" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="281~290" text="headaches" category="PAIN" condition="" change="" area="head" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="325~334" text="irritable" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="339~353" text="over-emotional" category="EMOTIONAL" condition="mood" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="375~381" text="cramps" category="MENSTRUAL" condition="cramps" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="241~249" text="terrible" intensity="high" comment="" />
+<MODIFIER id="M1" spans="262~271" text="every day" intensity="high" comment="" />
+<MODIFIER id="M2" spans="272~280" text="frequent" intensity="high" comment="" />
+<MODIFIER id="M3" spans="315~324" text="extremely" intensity="high" comment="" />
+<MODIFIER id="M4" spans="366~374" text="very bad" intensity="high" comment="" />
+</TAGS>
+</RxML>

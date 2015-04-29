@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Unknown</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>2</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I had a horrible experience on this birth control. It was the first I had tried and I found that it made me VERY nauseous even when I took it with a meal as I was instructed to do by my doctor. I took it with dinner every night around 7pm and without fail I would wake up at 4:30am every night feeling horribly nauseous. I actually lost quite a bit of weight (that I didn't need or want to lose!) mostly because of my nausea and loss of appetite. Being constantly nauseous also messed up my sex life as I never felt well enough to have sex which my partner (and I!) were less than happy with. I stopped taking this after the first pill of my 3rd cycle when the nausea heightened to the point that I actually vomited. Since stopping the pill I have still been experiencing nausea which I can only assume is related to the pill. I absolutely would NOT recommend this pill to anybody.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S1" spans="328~336" text="nauseous" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="526~534" text="nauseous" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="547~573" text="lost quite a bit of weight" category="WEIGHT" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="633~639" text="nausea" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="644~660" text="loss of appetite" category="DIGESTIVE" condition="appetite" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="679~687" text="nauseous" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="876~882" text="nausea" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="923~930" text="vomited" category="DIGESTIVE" condition="vomiting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="987~993" text="nausea" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<CAUSE id="C0" spans="633~639" text="nausea" comment="" />
+<CAUSE id="C1" spans="644~660" text="loss of appetite" comment="" />
+<CONDITIONAL_TRIGGER id="CON0" spans="619~629" text="because of" comment="" />
+<MODIFIER id="M0" spans="323~327" text="VERY" intensity="high" comment="" />
+<MODIFIER id="M1" spans="517~525" text="horribly" intensity="high" comment="" />
+<MODIFIER id="M2" spans="552~563" text="quite a bit" intensity="high" comment="" />
+<MODIFIER id="M3" spans="668~678" text="constantly" intensity="high" comment="" />
+</TAGS>
+</RxML>

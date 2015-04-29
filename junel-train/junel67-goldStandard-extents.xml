@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>2</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I took Junel Fe for about a year and a half. I got my period every so often not during the sugar pills. Which makes me think it wasn't protecting me from pregnancy. However birth control effects people in different ways. If you need a lose does pill than this might be the pill for you.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="270~283" text="got my period" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

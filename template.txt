@@ -1,3 +1,17 @@
 # Unigram
-U00:
-U01:
+
+# Current word
+U00:%x[0,0]
+# Current POS
+U01:%x[0,1]
+# Previous word
+U02:%x[-1,0]
+# Previous POS
+U03:%x[-1,1]
+# Next word
+U04:%x[1,0]
+# Next POS
+U05:%x[1,1]
+
+# Bigram
+B

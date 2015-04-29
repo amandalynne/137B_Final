@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>13-18</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have been on Junel for about a year now. Pros: I no longer have cramps and i have a lighter and shorter period. I dont get headaches anymore. I havent gained or lost weight either. Cons: ive had a lot of break through bleeding missed period for 2 months in a row moodiness and upset all the time. It works great but my boyfriend is getting tired of my mood swings.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I1" spans="274~295" text="no longer have cramps" happened="" comment="" />
+<INTENDED_EFFECT id="I2" spans="309~335" text="lighter and shorter period" happened="yes" comment="" />
+<INTENDED_EFFECT id="I3" spans="522~536" text="It works great" happened="" comment="" />
+<SIDE_EFFECT id="S0" spans="348~357" text="headaches" category="PAIN" condition="" change="" area="head" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="369~397" text="havent gained or lost weight" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S2" spans="429~451" text="break through bleeding" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="452~465" text="missed period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="488~497" text="moodiness" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="502~507" text="upset" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="577~588" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="420~428" text="a lot of" intensity="high" comment="" />
+<MODIFIER id="M1" spans="508~520" text="all the time" intensity="high" comment="" />
+</TAGS>
+</RxML>

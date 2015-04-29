@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have been on Junel for a year now and my sex drive has gone down hill ever since. I have also had issues with it making my hair fall out. It was great for decreasing my periods but I wont be taking it anymore...</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="380~401" text="decreasing my periods" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="266~294" text="sex drive has gone down hill" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="348~361" text="hair fall out" category="SKIN_HAIR" condition="hair" change="decrease" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

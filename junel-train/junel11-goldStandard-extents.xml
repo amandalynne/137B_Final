@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>13-18</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>I am almost done with my 1 month packet and I am switching BCs. I cannot take it anymore! I am dizzy sore nauseous overly-sensitive unfocused & tired all the time. It has made me very emotional and bipolar. One minute I am crying excessively over stupid things and the next thing you know I hate everyone. Yesterday I was looking for a laptop online and this customer service lady popped up and I got so angry at her for showing up! Also I have started swearing constantly but I can't stop it! Do not take this...unless you want to be pissed off at the world and cry at the same time.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="332~337" text="dizzy" category="SENSATIONS" condition="dizziness" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="338~342" text="sore" category="PAIN" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="343~351" text="nauseous" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="352~368" text="overly-sensitive" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="369~378" text="unfocused" category="MENTAL" condition="focus" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="381~386" text="tired" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="421~430" text="emotional" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="435~442" text="bipolar" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S9" spans="460~466" text="crying" category="EMOTIONAL" condition="mood" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="772~782" text="pissed off" category="EMOTIONAL" condition="mood" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="387~399" text="all the time" intensity="high" comment="" />
+<MODIFIER id="M1" spans="416~420" text="very" intensity="high" comment="" />
+<MODIFIER id="M2" spans="467~478" text="excessively" intensity="high" comment="" />
+</TAGS>
+</RxML>

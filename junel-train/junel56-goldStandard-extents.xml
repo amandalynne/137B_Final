@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>2</effectiveness>
+<condition>Condition: Absence of Menstrual Periods</condition>
+<comment>I started taking this after taking loestrin fe. I been on it for almost 3 months and after the first month I stopped getting my period. I already have one kid so its kind of scary if you just suddenly stop gettin periods. Also i never had acne till I got on this pill.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="338~363" text="stopped getting my period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="430~449" text="stop gettin periods" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="468~472" text="acne" category="SKIN_HAIR" condition="acne" change="increase" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>Okay...I know this is sad...but I have been on this medication only for a day and I have had horrible nausea and sensitivity to everything! I can't even eat my favorite meal! It is pretty much like having morning sickness! I feel so horrible and I can't even eat. I DO NOT recommend this medication to anyone!</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="339~345" text="nausea" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="350~361" text="sensitivity" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="430~458" text="like having morning sickness" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="462~478" text="feel so horrible" category="OTHER" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="485~499" text="can't even eat" category="DIGESTIVE" condition="other" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="330~338" text="horrible" intensity="high" comment="" />
+</TAGS>
+</RxML>

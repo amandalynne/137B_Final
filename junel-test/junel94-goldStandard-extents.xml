@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have had a horrible experience while taking this drug. My doctor switched me to this right before my wedding. I started feeling detached from my life a few weeks later. This feeling has continued to worsen and I've gone through 2 packs. I now cry all the time for no reason and feel trapped almost. I've never suffered from depression and have always been a pretty upbeat positive person. My husband thinks its the BC and I'm definitely going to stop using it. I would not ever recommend it.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="336~352" text="feeling detached" category="EMOTIONAL" condition="mood" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="459~475" text="cry all the time" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="494~506" text="feel trapped" category="EMOTIONAL" condition="other" change="" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

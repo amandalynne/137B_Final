@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I started taking this medication in February because it was less exoensive then the one I was currently taking. A few months later I missed my period but there didn't seem to be any other side effects. Although after about 6 months of taking it I began experiencing horrible mood swings where I would just start crying without warrant. I also developed heart palpitations acne and (the worst part) hot flashes. I've been on a different bcp for about a week now and almost all of my symptoms have disappeared.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="362~378" text="missed my period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="417~429" text="side effects" category="OTHER" condition="" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S2" spans="504~515" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="582~600" text="heart palpitations" category="CARDIOVASCULAR" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="601~605" text="acne" category="SKIN_HAIR" condition="acne" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="627~638" text="hot flashes" category="SENSATIONS" condition="other" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="495~503" text="horrible" intensity="high" comment="" />
+</TAGS>
+</RxML>

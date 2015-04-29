@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Painful Periods</condition>
+<comment>I started taking Junel because I had been dealing with horrific cramps my entire life and I had been experiencing extremely heavy long periods accompanied by terrible cervical pain. Birth control had been suggested but I was apprehensive to taking it. After 5 months on the pill I have no idea why I was so nervous. It's WONDERFUL. I started taking Junel fe 1/20 on the first day of my cycle as instructed by my gyn and it improved things instantly. My period lightened immediately and the cramps dissipated by the fourth day. I experienced very minimal spotting during my first month but nothing that was an inconvenience. During my second month my period only lasted four days. It is now down to two which is a huge improvement from my former 9 day cycles! I had no other side effects from the pill aside from a dizzy spell on my 5th day and a short fuse on my 13th. The pill has made my period nearly nonexistent cleared up the bits of hormonal acne I was prone to getting right before my period started and actually improved my libido. And to all the ladies out there who are worried about weight gain: You will not gain any weight unless you eat more calories than you burn. Period. If Junel increases your appetite simply eat as much as you did prior to taking the pill or get a little more physical activity. I actually lost 3 lbs after starting Junel.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I3" spans="1132~1168" text="cleared up the bits of hormonal acne" happened="" comment="" />
+<INTENDED_EFFECT id="I0" spans="639~654" text="improved things" happened="" comment="" />
+<INTENDED_EFFECT id="I1" spans="669~685" text="period lightened" happened="yes" comment="" />
+<INTENDED_EFFECT id="I2" spans="706~723" text="cramps dissipated" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="1030~1035" text="dizzy" category="SENSATIONS" condition="dizziness" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="1062~1072" text="short fuse" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="1236~1254" text="improved my libido" category="SEXUAL" condition="libido" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="1543~1553" text="lost 3 lbs" category="WEIGHT" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="770~778" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="762~769" text="minimal" intensity="low" comment="" />
+</TAGS>
+</RxML>

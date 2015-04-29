@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Other</condition>
+<comment>I've had my period for 2 weeks while on it (I was only on them for 2 weeks). Also I feel angry and negative about everything like I have PMS or depression. I quit taking them. I hope my mood goes back to normal.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S2" spans="215~240" text="had my period for 2 weeks" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="299~304" text="angry" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="309~317" text="negative" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

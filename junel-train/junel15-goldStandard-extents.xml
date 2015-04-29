@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>35-44</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>When I am on the placebo pills I do not get my period. When I am on the *real* pills I do get my period. I spot most of the month.I am going to get off this. I ahve been on it for 6 months just to be sure to give it a good chance but this spotting is a real problem. I have been wearing a pad for the past 6 months of my life.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S2" spans="247~267" text="do not get my period" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S0" spans="321~325" text="spot" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="453~461" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<CAUSE id="C0" spans="231~244" text="placebo pills" comment="" />
+<CONDITIONAL_TRIGGER id="CON0" spans="214~218" text="When" comment="" />
+</TAGS>
+</RxML>

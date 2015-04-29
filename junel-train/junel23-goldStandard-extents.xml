@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Absence of Menstrual Periods</condition>
+<comment></comment>
+]]></TEXT>
+<TAGS>
+</TAGS>
+</RxML>

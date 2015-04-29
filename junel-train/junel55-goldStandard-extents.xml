@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>Made me get recurring yeast infections. I never had any vaginal problems until taking this medication. I just finished my last pack. I had very painful breasts and was very moody and emotional. It also made me hungry 24/7. Worked great for preventing pregnancy but the side effects are not worth it so I'm done.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="251~267" text="yeast infections" category="OTHER" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="285~301" text="vaginal problems" category="OTHER" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="373~388" text="painful breasts" category="PAIN" condition="" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="402~407" text="moody" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="412~421" text="emotional" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="431~445" text="made me hungry" category="DIGESTIVE" condition="appetite" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="498~510" text="side effects" category="OTHER" condition="" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="241~250" text="recurring" intensity="" comment="" />
+<MODIFIER id="M1" spans="368~372" text="very" intensity="high" comment="" />
+<MODIFIER id="M2" spans="397~401" text="very" intensity="high" comment="" />
+<MODIFIER id="M3" spans="446~450" text="24/7" intensity="high" comment="" />
+</TAGS>
+</RxML>

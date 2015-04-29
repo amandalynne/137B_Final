@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>13-18</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have been on this drug for about 9 months and I my biggest problem is absolutely no sex drive. The point in taking a birth control is because your having sex but if you have no drive then there is no point. On the bright side I didn't gain weight or become moody from this!</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="312~324" text="no sex drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="405~413" text="no drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="466~477" text="gain weight" category="WEIGHT" condition="" change="increase" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S3" spans="488~493" text="moody" category="EMOTIONAL" condition="mood" change="worse" area="" happened="no" comment="" />
+<MODIFIER id="M0" spans="301~311" text="absolutely" intensity="high" comment="" />
+</TAGS>
+</RxML>

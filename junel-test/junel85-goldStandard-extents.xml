@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Painful Periods</condition>
+<comment>first thing i would like to say is NO PROBLEMS! i dont understand why everyone is upset by this pill maybe i got lucky i dont know? but my attitudes/mood swings/ have stayed normal no increase in anything and yes I GET MY PERIOD EVERY MONTH! never heard of anyone not getting them for that long unless preggo but i always get mine its shorter and lighter but i still get it MAYBE this pill isnt right for everyone but it is great for me! i was on lo estrin 24 before and had lost my insurance and could not afford the 70bucks for it so my doctor gave me junel i love it! its the same as my lo estrin was maybe a little better! but dont let all the reviews scare you away! it depends on your body give a try you may like it you may not if you dont try something else i didnt like a lot of the other pills out there til i got lo estrin and now junel</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="566~585" text="shorter and lighter" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="370~379" text="attitudes" category="EMOTIONAL" condition="mood" change="worse" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S0" spans="380~391" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S2" spans="446~471" text="GET MY PERIOD EVERY MONTH" category="MENSTRUAL" condition="missed_period" change="" area="" happened="no" comment="" />
+</TAGS>
+</RxML>

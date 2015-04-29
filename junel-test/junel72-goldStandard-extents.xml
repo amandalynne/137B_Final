@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I really liked using Junel Fe because I have really short and light periods (only last 3 days). The only reason I'm switching is because the hormone dosage is so low that if I take the pill a few hours later than I normally do I have spotting. Other than that a great birth control with almost no side effects (for me).</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="275~298" text="short and light periods" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="457~465" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="520~532" text="side effects" category="OTHER" condition="" change="" area="" happened="no" comment="" />
+<CAUSE id="C0" spans="397~449" text="I take the pill a few hours later than I normally do" comment="" />
+<MODIFIER id="M1" spans="268~274" text="really" intensity="high" comment="" />
+<MODIFIER id="M0" spans="510~519" text="almost no" intensity="" comment="" />
+</TAGS>
+</RxML>

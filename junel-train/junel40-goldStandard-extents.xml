@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>3</satisfaction>
+<effectiveness>4</effectiveness>
+<condition>Condition: Painful Periods</condition>
+<comment>When I first started taking this medication it made me a bit more emotional than usual and I found myself having some mood swings. I also had continual spotting for almost all of the first month on it. However after letting my body adjust I feel perfectly fine. It is easy to take everyday and the periods are light and only last 3-4 days. In the past I used to have extremely bad cramps so this has been a very good lifestyle change.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="514~531" text="periods are light" happened="yes" comment="" />
+<INTENDED_EFFECT id="I1" spans="597~603" text="cramps" happened="no" comment="" />
+<SIDE_EFFECT id="S0" spans="282~291" text="emotional" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="334~345" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="368~376" text="spotting" category="MENSTRUAL" condition="spotting" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="271~281" text="a bit more" intensity="" comment="" />
+<MODIFIER id="M1" spans="358~367" text="continual" intensity="high" comment="" />
+<MODIFIER id="M2" spans="583~596" text="extremely bad" intensity="high" comment="" />
+</TAGS>
+</RxML>

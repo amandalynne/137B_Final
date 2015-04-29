@@ -17,7 +17,7 @@ def parse_spans(spans):
     return int(start_end[0]), int(start_end[1])
 
 
-def extract_features_from_files(directory):
+def extract_features_from_files(directory, mode, filename):
     """Extract features from corpus of files"""
     for annotated, raw in pairwise(os.listdir(directory)):
         side_effect_list = []
@@ -41,7 +41,7 @@ def extract_features_from_files(directory):
                 start+=len(split[0])+1
                 for word in split[1:]:
                     IOB_side_effects[(word, start, start+len(word))]="I-"+tag
-                    start+=len(word)
+                    start+=len(word)+1
             else:
                 IOB_side_effects[(split[0], start, end)] = "B-"+tag
         
@@ -90,13 +90,20 @@ def extract_features_from_files(directory):
             char_index+=1 
 
         pos_tagged = nltk.pos_tag(tokenized)
- 
-        if raw == "junel1.xml":
-            print IOB_side_effects
-            print untagged_offsets
-            print pos_tagged
 
+        with open(filename, 'ab') as outf:
+            for triple, pair in zip(untagged_offsets, pos_tagged):
+                if mode == "train":
+                    if triple in IOB_side_effects:
+                        outf.write(triple[0] +'\t'+pair[1]+'\t'+ IOB_side_effects[triple]+ '\n')
+                    else:
+                        outf.write(triple[0]+'\t'+pair[1]+'\t'+ "O"+'\n')
+    
+                elif mode == "test":
+                    outf.write(triple[0] +'\t'+pair[1]+'\t'+ '\n')
 
 if __name__ == "__main__":
     directory = sys.argv[1]
-    extract_features_from_files(directory)
+    mode = sys.argv[2]
+    filename = sys.argv[3]
+    extract_features_from_files(directory, mode, filename)

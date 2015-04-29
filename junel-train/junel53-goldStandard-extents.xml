@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I was taking microgestin fe 1/20 but the pharmacy gave me this one in replacement for two months. Since taking Junel I've had headaches mood swings acne break outs on my chest fatigue and low libido. I didn't have any of these issues on microgestin. I also have been on orth tri cyclen and had no issues. I called the pharmacy to make sure they give me the microgestin from now on. Horrible birth control</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="340~349" text="headaches" category="PAIN" condition="" change="" area="head" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="350~361" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="362~366" text="acne" category="SKIN_HAIR" condition="acne" change="" area="chest" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="390~397" text="fatigue" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="402~412" text="low libido" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>

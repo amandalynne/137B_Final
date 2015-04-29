@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>6 months to less than 1 year</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Abnormally Long or Heavy Periods</condition>
+<comment>I have been using Junel FE 1/20 for 6 months and I havent had any problems. no weight gain no hair loss and nooo babies! My periods have been very very light except for this month. My doctor has recently switched me to microgestin fe 1/20 and im kind of nervous to take it.</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="356~367" text="nooo babies" happened="yes" comment="" />
+<INTENDED_EFFECT id="I1" spans="372~405" text="periods have been very very light" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="324~338" text="no weight gain" category="WEIGHT" condition="" change="decrease" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S2" spans="339~351" text="no hair loss" category="SKIN_HAIR" condition="hair" change="decrease" area="" happened="no" comment="" />
+</TAGS>
+</RxML>

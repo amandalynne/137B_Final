@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>1</effectiveness>
+<condition>Condition: Painful Periods</condition>
+<comment>I'm exactly 2 weeks into this pill and I've never reacted so negatively to a medication before. Almost every day being on Junel I've felt extremely nauseated tired bloated gained five pounds (I wouldn't have put this since that could be contributed to fluctuating weight but I've had a decreased appettite and the weighgain keeps adding up). If you're not taking well to the meds from the getgo I highly recommend not to drink while on Junel. I vommitted horribly after only 2 weak drinks at home the other night which was very unusual for me. The whole reason I started taking this medication was for less painful menstrual cramps. The past 4 days I've had cramping and breakthrough bleeding. No thanks I'll go back to feeling normal and having the bad cramps 1-2 days a month after all these side effects. I can't rate this product on effectiveness with prevention of pregnancy because I've had no desire since the start of this medication. Definitely think about it before trying Junel!</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="822~851" text="less painful menstrual cramps" happened="no" comment="" />
+<INTENDED_EFFECT id="I1" spans="878~886" text="cramping" happened="no" comment="" />
+<INTENDED_EFFECT id="I2" spans="891~912" text="breakthrough bleeding" happened="no" comment="" />
+<SIDE_EFFECT id="S7" spans="1117~1126" text="no desire" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="368~377" text="nauseated" category="DIGESTIVE" condition="nausea" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="378~383" text="tired" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="384~391" text="bloated" category="DIGESTIVE" condition="bloating" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="392~410" text="gained five pounds" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="506~525" text="decreased appettite" category="DIGESTIVE" condition="appetite" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="534~543" text="weighgain" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="665~674" text="vommitted" category="DIGESTIVE" condition="vomiting" change="" area="" happened="yes" comment="" />
+<CAUSE id="C0" spans="702~708" text="drinks" comment="" />
+<CONDITIONAL_TRIGGER id="CON0" spans="684~689" text="after" comment="" />
+<MODIFIER id="M0" spans="358~367" text="extremely" intensity="" comment="" />
+<MODIFIER id="M1" spans="675~683" text="horribly" intensity="" comment="" />
+</TAGS>
+</RxML>

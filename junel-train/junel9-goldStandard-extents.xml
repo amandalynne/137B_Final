@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to less than 2 years</treatment_length>
+<satisfaction>2</satisfaction>
+<effectiveness>5</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I took this pill for a year. Starting from the first pack I never had a single period in 12 months and I didn't skip the sugar pills. Major complaints: ZERO sex drive. Lost the ability to orgasm. Memory loss. Mild acne. Dryness. Benefits: It actually stabilized my mood I used to have HUGE mood swings and panic attacks both of which have totally disappeared. I rarely cry now and when I do it's only for a good reason. It made me gain some weight but not too much (around 10 lbs in total but I was anorexic before.) Also it has obviously prevented me from getting pregnant because I don't even have a menstrual cycle anymore. Overall: I'm switching but only because it makes me feel kind of... detached. No periods no desire for sex no real emotions whether good or bad. I wouldn't say don't try this pill but if you start noticing sexual side effects don't suffer in silence just switch. There's plenty of birth controls out there for you to try!</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="762~796" text="prevented me from getting pregnant" happened="yes" comment="" />
+<SIDE_EFFECT id="S12" spans="1056~1075" text="sexual side effects" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S0" spans="283~308" text="never had a single period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="375~389" text="ZERO sex drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="391~417" text="Lost the ability to orgasm" category="SEXUAL" condition="longer_to_orgasm" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="419~430" text="Memory loss" category="MENTAL" condition="memory" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="437~441" text="acne" category="SKIN_HAIR" condition="acne" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="443~450" text="Dryness" category="SKIN_HAIR" condition="" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="474~492" text="stabilized my mood" category="EMOTIONAL" condition="mood" change="better" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="654~670" text="gain some weight" category="WEIGHT" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="902~926" text="feel kind of... detached" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S9" spans="928~938" text="No periods" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S10" spans="939~956" text="no desire for sex" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S11" spans="957~973" text="no real emotions" category="EMOTIONAL" condition="other" change="" area="" happened="yes" comment="" />
+<MODIFIER id="M0" spans="432~436" text="Mild" intensity="low" comment="" />
+<MODIFIER id="M1" spans="675~687" text="not too much" intensity="" comment="" />
+</TAGS>
+</RxML>

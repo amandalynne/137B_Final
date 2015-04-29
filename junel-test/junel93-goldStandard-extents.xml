@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I am on day 7 and I am destroying this pack today. I am typically a positive bubbly & sunny personality but I am turning into wacko b*tch on Junel. In one week's time I have swung from feelings of simmering rage to normalcy to numbness and then to depression. I even told my husband I wanted to tear out a customer's jugular with my teeth today! But I knew I needed to stop when I blurted out a wacko and way-out-there comment this evening during an argument with him. This ends now. I don't want to go into the loony bin. My mental health is way too precious to be taking this garbage.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="331~355" text="turning into wacko b*tch" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="392~397" text="swung" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="466~476" text="depression" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+</TAGS>
+</RxML>
