@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>25-34</age>
+<treatment_length>less than 1 month</treatment_length>
+<satisfaction>1</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Abnormal Bleeding from the Uterus</condition>
+<comment>I have only been on this pill for one week and it's been a nightmare. From day one I felt irritable sensitive fatigue anger isolated very moody and no sexual desire. I also started getting severe acne on my face. I am stopping this pill tommorow not a day more with this pill. Don't waste your time this BC is totally not worth it.</comment>
+]]></TEXT>
+<TAGS>
+<SIDE_EFFECT id="S0" spans="328~337" text="irritable" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S1" spans="338~347" text="sensitive" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S2" spans="348~355" text="fatigue" category="ENERGY" condition="" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="356~361" text="anger" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="362~370" text="isolated" category="EMOTIONAL" condition="mood" change="worse" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="376~381" text="moody" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S6" spans="386~402" text="no sexual desire" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="434~438" text="acne" category="SKIN_HAIR" condition="acne" change="increase" area="face" happened="yes" comment="" />
+<MODIFIER id="M0" spans="371~375" text="very" intensity="high" comment="" />
+<MODIFIER id="M1" spans="427~433" text="severe" intensity="high" comment="" />
+</TAGS>
+</RxML>
