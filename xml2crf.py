@@ -3,8 +3,14 @@
 import nltk, os, string, sys
 from bs4 import BeautifulSoup
 from itertools import izip
+from nltk.stem.snowball import SnowballStemmer
 from xml.etree.ElementTree import ElementTree
 
+# Heh not sure what the right style is here
+_stemmer = SnowballStemmer("english")
+
+with open("side_effects.txt", 'r') as inf:
+    _side_effects = set(inf.read().split())
 
 def pairwise(iterable):
     """Helps iterate over pairs of items"""
@@ -16,6 +22,9 @@ def parse_spans(spans):
     start_end = spans.split("~")
     return int(start_end[0]), int(start_end[1])
 
+def side_effect_stem(word):
+    """Is the word in the list of side effects?"""
+    return '1' if _stemmer.stem(word.lower()) in _side_effects else '0'
 
 def extract_features_from_files(directory, mode, filename):
     """Extract features from corpus of files"""
@@ -106,19 +115,15 @@ def extract_features_from_files(directory, mode, filename):
 
         with open(filename, 'ab') as outf:
             for triple, pair in zip(untagged_offsets, pos_tagged):
-                if mode == "train":
-                    if triple in IOB_side_effects:
-                        outf.write(triple[0] +'\t'+pair[1]+'\t'+ IOB_side_effects[triple]+ '\n')
-                    else:
-                        outf.write(triple[0]+'\t'+pair[1]+'\t'+ "O"+'\n')
-    
-                elif mode == "test":
-                    outf.write(triple[0] +'\t'+pair[1]+'\t'+ '\n')
-                    with open(filename+"-gold", 'ab') as gold:
-                        if triple in IOB_side_effects:
-                            gold.write(triple[0] +'\t'+pair[1]+'\t'+ IOB_side_effects[triple]+ '\n')
-                        else:
-                            gold.write(triple[0]+'\t'+pair[1]+'\t'+ "O"+'\n')                        
+                elements = [triple[0], pair[1], side_effect_stem(triple[0])] 
+                
+                if triple in IOB_side_effects:
+                    elements.append(IOB_side_effects[triple])
+                    #outf.write(triple[0] +'\t'+pair[1]+'\t'+ IOB_side_effects[triple]+ '\n')
+                else:
+                    elements.append("O")
+                    #outf.write(triple[0]+'\t'+pair[1]+'\t'+ "O"+'\n')
+                outf.write('\t'.join(elements) + '\n')
 
 if __name__ == "__main__":
     directory = sys.argv[1]
