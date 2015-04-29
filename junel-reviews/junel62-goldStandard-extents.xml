@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RxML>
+<TEXT><![CDATA[
+<gender>Female</gender>
+<age>19-24</age>
+<treatment_length>1 to 6 months</treatment_length>
+<satisfaction>5</satisfaction>
+<effectiveness>3</effectiveness>
+<condition>Condition: Birth Control</condition>
+<comment>I have taken this pill for a week now and am in love it with. I use to have the worst mood swings on my old bc or even when I wasn't taking any BC. Being a firefighter the guys at the station knew when it was that time of month and would hate working with me cause I was a complete and total b*tch. I didn't want to do anything and when I did I would be in a really bad mood. I would randomly cry (and I'm NEVER one to cry!) But then next thing you knew I was the happiest person on the planet. Before taking Junel I was a mess! Within the week of getting on this pill I have noticed a boost in energy and am constantly in a good mood. With this boost of energy I have been finding more time to go to the gym and play golf. I don't know how it's going to effect my sex drive like so many other reviews are saying. So far I haven't noticed a difference in sex drive. ;) Overall I do give this pill a good review! It's helped with my moods energy and my period has only lasted a couple days which is the best thing ever! Going from lasting a full 7 days to 3 days!!</comment>
+]]></TEXT>
+<TAGS>
+<INTENDED_EFFECT id="I0" spans="1166~1202" text="period has only lasted a couple days" happened="yes" comment="" />
+<SIDE_EFFECT id="S5" spans="1037~1078" text="haven't noticed a difference in sex drive" category="SEXUAL" condition="libido" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S6" spans="1146~1151" text="moods" category="EMOTIONAL" condition="mood" change="better" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S7" spans="1152~1158" text="energy" category="ENERGY" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S8" spans="1166~1202" text="period has only lasted a couple days" category="MENSTRUAL" condition="other" change="" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S0" spans="300~311" text="mood swings" category="EMOTIONAL" condition="mood_swings" change="" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S1" spans="580~588" text="bad mood" category="EMOTIONAL" condition="mood" change="worse" area="" happened="no" comment="" />
+<SIDE_EFFECT id="S2" spans="800~815" text="boost in energy" category="ENERGY" condition="" change="increase" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S3" spans="834~848" text="in a good mood" category="EMOTIONAL" condition="mood" change="better" area="" happened="yes" comment="" />
+<SIDE_EFFECT id="S4" spans="860~875" text="boost of energy" category="ENERGY" condition="" change="increase" area="" happened="yes" comment="" />
+<MODIFIER id="M1" spans="294~299" text="worst" intensity="high" comment="" />
+<MODIFIER id="M0" spans="573~579" text="really" intensity="high" comment="" />
+</TAGS>
+</RxML>

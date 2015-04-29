@@ -11,7 +11,7 @@
 ]]></TEXT>
 <TAGS>
 <INTENDED_EFFECT id="I0" spans="762~796" text="prevented me from getting pregnant" happened="yes" comment="" />
-<SIDE_EFFECT id="S12" spans="1063~1067,1056~1075" text="side ... sexual side effects" category="" condition="" change="" area="" happened="" comment="" />
+<SIDE_EFFECT id="S12" spans="1056~1075" text="sexual side effects" category="" condition="" change="" area="" happened="" comment="" />
 <SIDE_EFFECT id="S0" spans="283~308" text="never had a single period" category="MENSTRUAL" condition="missed_period" change="" area="" happened="yes" comment="" />
 <SIDE_EFFECT id="S1" spans="375~389" text="ZERO sex drive" category="SEXUAL" condition="libido" change="decrease" area="" happened="yes" comment="" />
 <SIDE_EFFECT id="S2" spans="391~417" text="Lost the ability to orgasm" category="SEXUAL" condition="longer_to_orgasm" change="" area="" happened="yes" comment="" />
