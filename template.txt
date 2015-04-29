@@ -13,8 +13,27 @@ U04:%x[1,0]
 # Next POS
 U05:%x[1,1]
 
+# Current word in side effects vocab
+U06:%x[0,2]
+# Previous word in side effects vocab
+U07:%x[-1,2]
+# Next word in side effects vocab
+U08:&x[1,2]
 
+# Word before previous
+U09:%x[-2,0]
+# POS before previous
+U10:%x[-2,1]
 
+# Word after next
+U11:%x[2,0]
+# POS after next
+U12:%x[2,1]
+
+# Word before prev in side effects vocab
+U13:%x[-2,2]
+# Word after next in side effects vocab
+U14:%x[2,2]
 
 
 # Bigram

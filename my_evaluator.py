@@ -55,8 +55,6 @@ for i in range(len(gold_tag_list)):
 
 precision = float(correct) / test_total
 recall = float(correct) / gold_total
-print precision
-print recall
 f = precision * recall * 2 / (precision + recall)
 
 #print correct, gold_total, test_total

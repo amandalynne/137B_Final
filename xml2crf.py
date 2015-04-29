@@ -130,7 +130,3 @@ if __name__ == "__main__":
     mode = sys.argv[2]
     filename = sys.argv[3]
     extract_features_from_files(directory, mode, filename)
-    # To match CRFPP output
-    if mode == "test":
-        with open(filename+"-gold", 'ab') as gold:
-            gold.write("\n")
