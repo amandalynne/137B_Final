@@ -24,7 +24,8 @@ def parse_spans(spans):
 
 def side_effect_stem(word):
     """Is the word in the list of side effects?"""
-    return '1' if _stemmer.stem(word.lower()) in _side_effects else '0'
+    #return '1' if _stemmer.stem(word.lower()) in _side_effects else '0'
+    return '1' if word.lower() in _side_effects else '0'
 
 def extract_features_from_files(directory, mode, filename):
     """Extract features from corpus of files"""
