@@ -10,6 +10,7 @@ def process_word(word):
     """Stem and lowercase the word"""
     stemmer = SnowballStemmer("english")
     return stemmer.stem(word.lower()) 
+    #return word.lower()
 
 def compile_side_effects(xml_file):
     """Given an annotated file, look for the SIDE EFFECT extents,
