@@ -35,6 +35,17 @@ U13:%x[-2,2]
 # Word after next in side effects vocab
 U14:%x[2,2]
 
+# Previous and current POS
+U15:%x[-1,1]/%x[0,1]
+
+# Current and next POS
+#U16:%x[0,1]/%x[1,1]
+
+# Previous and current in vocab
+U17:%x[-1,2]/%x[0,2]
+
+# Current and next in vocab
+U18:%x[0,2]/%x[1,2]
 
 # Bigram
 B
