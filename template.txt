@@ -47,5 +47,15 @@ U17:%x[-1,2]/%x[0,2]
 # Current and next in vocab
 U18:%x[0,2]/%x[1,2]
 
+# Current word / POS
+U19:%x[0,0]/%x[0,1]
+
+# Current word is digit
+#U20:%x[0,3]
+
+# Current Brown cluster
+U21:%x[0,4]
+
+
 # Bigram
 B
