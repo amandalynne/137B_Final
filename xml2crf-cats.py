@@ -12,14 +12,6 @@ _stemmer = SnowballStemmer("english")
 with open("side_effects_stems.txt", 'r') as inf:
     _side_effects = set(inf.read().split())
 
-with open("brown_clusters", "r") as inf:
-    _cluster_dict = {}
-    for line in inf:
-        split = line.split()
-        token = split[1]
-        cluster_number = split[0]
-        _cluster_dict[token] = cluster_number        
-
 def pairwise(iterable):
     """Helps iterate over pairs of items"""
     a = iter(iterable)
@@ -34,17 +26,6 @@ def side_effect_stem(word):
     """Is the word in the list of side effects?"""
     return '1' if _stemmer.stem(word.lower()) in _side_effects else '0'
     #return '1' if word.lower() in _side_effects else '0'
-
-def is_digit(word):
-    """Is the word a digit?"""
-    return '1' if word.isdigit() else '0'
-
-def brown_cluster(word):
-    """Return Brown cluster for word"""
-    if word in _cluster_dict:
-        return _cluster_dict[word]
-    else:
-        return "00000000"    
 
 def extract_features_from_files(directory, mode, filename):
     """Extract features from corpus of files"""
@@ -61,7 +42,7 @@ def extract_features_from_files(directory, mode, filename):
                 category = effect.attrib['category']
                 happened = effect.attrib['happened']
                 
-                side_effect_list.append(('SE', text, start, end)) 
+                side_effect_list.append(('SE-'+category, text, start, end)) 
         IOB_side_effects = {}
         for tag, text, start, end in side_effect_list:
             split = text.split()
@@ -135,8 +116,7 @@ def extract_features_from_files(directory, mode, filename):
 
         with open(filename, 'ab') as outf:
             for triple, pair in zip(untagged_offsets, pos_tagged):
-                elements = [triple[0], pair[1], side_effect_stem(triple[0]),
-                            is_digit(triple[0]), brown_cluster(triple[0])] 
+                elements = [triple[0], pair[1], side_effect_stem(triple[0])] 
                 
                 if triple in IOB_side_effects:
                     elements.append(IOB_side_effects[triple])
