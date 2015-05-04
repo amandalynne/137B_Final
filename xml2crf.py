@@ -1,4 +1,5 @@
-"""Extract features from files for CRF training format"""
+"""Extract features from files for CRF training format.
+   Usage: python xml2crf.py <directory> <mode> <output>"""
 
 import nltk, os, string, sys
 from bs4 import BeautifulSoup
